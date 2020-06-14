@@ -12,7 +12,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Andrea Rodríguez García
 
-**Resumen** : Este proyecto es una recopilación de trabajos creados en el 2º curso del Grado de Bellas Artes de la UGR. En él, a partir de diferentes apartados podemos ver obras pertenecientes a asignaturas de dibujo, pintura y fotografía, así como conocer más a la artista.
+**Resumen** : 
+  Este proyecto es una recopilación de trabajos creados en el 2º curso del Grado de Bellas Artes de la UGR. En él, a partir de diferentes apartados podemos ver obras pertenecientes a asignaturas de dibujo, pintura y fotografía, así como conocer más a la artista.
 
 **Estilo/género:**  Portfolio
 
@@ -22,7 +23,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Tamaño proyecto:** 11,9MB 
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-NC-ND)
+**Licencia** Este proyecto tiene una Licencia CC Reconocimiento No Comercial-Sin Derivadas (CC BY-NC-ND)
 
 **Fecha** : 14/06/2020
 
@@ -57,7 +58,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+   Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 
 
