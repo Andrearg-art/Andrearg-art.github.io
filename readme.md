@@ -10,8 +10,7 @@
 
 **Titulo** : Andrearg-art
 
-**Web:**   Andrearg-art.github.io
-
+**Web:**   (https://andrearg-art.github.io/)
 **Autor:**  Andrea Rodríguez García
 
 **Resumen** : Este proyecto es una recopilación de trabajos creados en el 2º curso del Grado de Bellas Artes de la UGR. En él, a partir de diferentes apartados podemos ver obras pertenecientes a asignaturas como dibujo, pintura y fotografía, así como conocer más a la artista.
