@@ -24,7 +24,7 @@
 
 **Tamaño proyecto:** 11,9MB 
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-NC-ND)
 
 **Fecha** : 14/06/2020
 
@@ -40,8 +40,9 @@
 ### 2.1 Storyboard: 
 
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+  Mi proyecto es una especie de página web sencilla,directa, con un diseño intuitivo, que permite ponerte en contacto con mis obras y conocer algunos datos acerca de ellas. Tiene 3 partes: una introducción breve, un menú y el interior de cada apartado. El Menú está compuesto por botones que nos llevan a Dibujo, Pintura, Fotografía, Sobre mí y Contacto. En cada una de ellas, aparecen botones que llevan a ver la obra elegida.
+ 
+ (
 
 
 
@@ -49,7 +50,7 @@
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+()
 
 
 
@@ -120,8 +121,7 @@ No he incluido sonidos o vídeos porque no me parecían relevantes en mi idea. S
 
 
 
-
-
+![licencia] (https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png)
 https://creativecommons.org/licenses/?lang=es
 
 Junio 2020
