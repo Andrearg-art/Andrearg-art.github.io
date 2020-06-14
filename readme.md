@@ -1,45 +1,39 @@
-## (Nombre del proyecto)
-
-Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
+## (Portfolio de Andrea R.G.)
 
 
 
-# 1 Datos 
+
+
+# Datos del proyecto 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Andrearg-art
 
-**Web:**   (url github.io)
+**Web:**   Andrearg-art.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Andrea Rodríguez García
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto es una recopilación de trabajos creados en el 2º curso del Grado de Bellas Artes de la UGR. En él, a partir de diferentes apartados podemos ver obras pertenecientes a asignaturas como dibujo, pintura y fotografía, así como conocer más a la artista.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Portfolio
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Resolución:** 800x600px, tamaño fijo
 
-(insertar imágenes a resolucion de 100px alto)
+**Probado en:**  Google Chrome, Internet explorer 
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 11,9MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 14/06/2020
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** 
 
-- Github:
-- Twitter
-- Instagram
+- Github:Andrearg-art
+- Instagram:@andrearg_art
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
@@ -73,20 +67,18 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
+- Portfolio [Naranjalidad Web page](https://www.naranjalidad.com/) para el diseño de los apartados e ilustraciones timeline
+- Portfolio [Ana Santos Web page](https://www.anasantosilustracion.com/) para buscar inspiración y tener otro referente
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Me interesaba realizar este proyecto porque siempre he querido crear una página web que reuniera mis trabajos más significativos y así poder difundirlas. 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todos los públicos, pero sobre todo a personas con inquietudes artísticas
 
 
 
@@ -94,52 +86,42 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+-Introducción
+- Menú
+- Escenas
+- Botones 
+- Imagen fija con descripciones
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+De momento no he identificado ningún problema.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+ He intentado crear una imagen más profesional que el resto de prácticas entregadas en la asignatura de Creación Multimedia Interactiva.
+No he incluido sonidos o vídeos porque no me parecían relevantes en mi idea. Sin duda, de cara al futuro querría incorporar más material y crear una clasificación más concreta de las imágenes para que no se mezclen bodegones y figura humana en la misma zona.
 
 
 
-
-
-
-
-# 5 Referencias 
-
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Imágenes: Andrea Rodríguez García
+* Tipografía: Gill Sans MT Condensed
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+
+
 
 https://creativecommons.org/licenses/?lang=es
 
