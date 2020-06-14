@@ -3,7 +3,7 @@
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
-# 1 Datos del proyecto 
+# 1. Datos del proyecto 
 
 
 **Titulo** : Andrearg-art
@@ -40,7 +40,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
   Mi proyecto es una especie de página web sencilla, directa, con un diseño intuitivo, que permite ponerte en contacto con mis obras y conocer su ficha técnica. Tiene 3 partes: una introducción breve, un menú y el interior de cada apartado. El Menú está compuesto por botones que nos llevan a "Dibujo", "Pintura", "Fotografía", "Sobre mí" y "Contacto". En cada una de ellas, aparecen botones que llevan a ver la obra elegida.
  
- ![
+ ![storyboard](https://github.com/Andrearg-art/Andrearg-art.github.io/blob/master/storyboard.jpg)
 
 
 
@@ -49,8 +49,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 ![navegación](https://github.com/Andrearg-art/Andrearg-art.github.io/blob/master/2.jpg)
-
-
+![navegación](https://github.com/Andrearg-art/Andrearg-art.github.io/blob/master/5.jpg)
 
 
 
@@ -64,7 +63,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
 - Portfolio [Naranjalidad Web page](https://www.naranjalidad.com/) para el diseño de los apartados e ilustraciones timeline
 - Portfolio [Ana Santos Web page](https://www.anasantosilustracion.com/) para buscar inspiración y tener otro referente
@@ -72,12 +71,12 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Me interesaba realizar este proyecto porque siempre he querido crear una página web que reuniera mis trabajos más significativos y así poder difundirlas. 
+  Me interesaba realizar este proyecto porque siempre he querido crear una página web que reuniera mis trabajos más significativos y así poder difundirlas. 
 
 
 **Publico / audiencia**
 
-- Orientado a todos los públicos, pero sobre todo a personas con inquietudes artísticas
+- Orientado a todos los públicos, sobre todo a personas con inquietudes artísticas.
 
 
 
@@ -96,8 +95,7 @@ Me interesaba realizar este proyecto porque siempre he querido crear una página
 
 ### Etapa 3: Problemas identificados
 
-De momento no he identificado ningún problema.
-
+ De momento no he identificado ningún problema cuando lo visualizo en ordenadores. Sin embargo, en móviles cambia la tipografía y el texto aparece descuadrado. Creo que se debe a que los dispositivos no tienen estas fuentes instaladas.
 
 
 # 4. Conclusiones 
@@ -119,7 +117,7 @@ No he incluido sonidos o vídeos porque no me parecían relevantes en mi idea. S
 
 
 
-![licencia] (https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png)
+![licencia](https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png)
 https://creativecommons.org/licenses/?lang=es
 
 Junio 2020
