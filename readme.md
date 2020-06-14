@@ -102,8 +102,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 4. Conclusiones 
 
  He intentado crear una imagen más profesional que el resto de prácticas entregadas en la asignatura de Creación Multimedia Interactiva.
-No he incluido sonidos o vídeos porque no me parecían relevantes en mi idea. Sin duda, de cara al futuro querría incorporar más material y crear una clasificación más concreta de las imágenes para que no se mezclen bodegones y figura humana en la misma zona.
-
+No he incluido sonidos o vídeos porque no me parecían relevantes en mi idea. Sin duda, de cara al futuro querría incorporar más material y crear una clasificación más concreta de las imágenes.
 
 
 
