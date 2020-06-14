@@ -1,11 +1,9 @@
-## (Portfolio de Andrea R.G.)
+## Portfolio de Andrea R.G.
+
+Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
-
-
-
-# Datos del proyecto 
-
+# 1 Datos del proyecto 
 
 
 **Titulo** : Andrearg-art
@@ -14,13 +12,13 @@
 
 **Autor:**  Andrea Rodríguez García
 
-**Resumen** : Este proyecto es una recopilación de trabajos creados en el 2º curso del Grado de Bellas Artes de la UGR. En él, a partir de diferentes apartados podemos ver obras pertenecientes a asignaturas como dibujo, pintura y fotografía, así como conocer más a la artista.
+**Resumen** : Este proyecto es una recopilación de trabajos creados en el 2º curso del Grado de Bellas Artes de la UGR. En él, a partir de diferentes apartados podemos ver obras pertenecientes a asignaturas de dibujo, pintura y fotografía, así como conocer más a la artista.
 
 **Estilo/género:**  Portfolio
 
 **Resolución:** 800x600px, tamaño fijo
 
-**Probado en:**  Google Chrome, Internet explorer 
+**Probado en:**  Google Chrome, Internet Explorer 
 
 **Tamaño proyecto:** 11,9MB 
 
@@ -40,9 +38,9 @@
 ### 2.1 Storyboard: 
 
 
-  Mi proyecto es una especie de página web sencilla,directa, con un diseño intuitivo, que permite ponerte en contacto con mis obras y conocer algunos datos acerca de ellas. Tiene 3 partes: una introducción breve, un menú y el interior de cada apartado. El Menú está compuesto por botones que nos llevan a Dibujo, Pintura, Fotografía, Sobre mí y Contacto. En cada una de ellas, aparecen botones que llevan a ver la obra elegida.
+  Mi proyecto es una especie de página web sencilla, directa, con un diseño intuitivo, que permite ponerte en contacto con mis obras y conocer su ficha técnica. Tiene 3 partes: una introducción breve, un menú y el interior de cada apartado. El Menú está compuesto por botones que nos llevan a "Dibujo", "Pintura", "Fotografía", "Sobre mí" y "Contacto". En cada una de ellas, aparecen botones que llevan a ver la obra elegida.
  
- (
+ ![
 
 
 
